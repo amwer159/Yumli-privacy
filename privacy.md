@@ -1,5 +1,3 @@
-# Privacy Policy for Yumli
-
 **Last Updated:** May 2, 2026
 
 Yumli ("the App") is developed by Viktor Ilin, an independent developer based in Chernivtsi, Ukraine ("I", "me", "my"). This policy explains what data the App collects and how it is used.
@@ -60,8 +58,6 @@ You have the right to:
 - Subscribe to Pro to remove ads entirely
 
 **EU/EEA users:** Under GDPR, you also have the right to data portability and to lodge a complaint with your local data protection authority.
-
-**Ukrainian users:** Under Ukrainian law (ЗУ "Про захист персональних даних"), you may contact the Ukrainian Parliament Commissioner for Human Rights (ombudsman.gov.ua) regarding data protection concerns.
 
 To exercise any of these rights, email me at **yumli.support@gmail.com**.
 
